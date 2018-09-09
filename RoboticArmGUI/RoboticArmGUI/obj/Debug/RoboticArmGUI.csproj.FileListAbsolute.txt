@@ -1,0 +1,20 @@
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\bin\Debug\RoboticArmGUI.exe.config
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\bin\Debug\RoboticArmGUI.exe
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\bin\Debug\RoboticArmGUI.pdb
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.csprojAssemblyReference.cache
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.Properties.Resources.resources
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.csproj.GenerateResource.cache
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.exe
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.pdb
+c:\users\hp\source\repos\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.GUI.resources
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\bin\Debug\RoboticArmGUI.exe.config
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\bin\Debug\RoboticArmGUI.exe
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\bin\Debug\RoboticArmGUI.pdb
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.GUI.resources
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.Properties.Resources.resources
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.exe
+C:\Users\HP\Desktop\CodingMain\Finished Projects\Age_14-17\robotics\RoboticArm\RoboticArmGUI\RoboticArmGUI\obj\Debug\RoboticArmGUI.pdb
